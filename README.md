@@ -1,2 +1,2 @@
-# rubric
+# iVoter
 This is a sample project that uses JavaFX and MySQL database. The entire project could be downloaded as iVoter.zip file. It contains the mysql driver and four main packages: application, controller, model, and view. The application package contains three files:  MainFXApp (a starter program), application.css, and iVoterDBConfig (which contains information about the database configuration settings). The controller package contains one file named MainController.java, which contains the business logic code of the application. Model package contains one class named Voter.java, and the view package contains all the .fxml files. 
